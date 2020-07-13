@@ -10,7 +10,7 @@ THEME_NAME:=opentomcat
 THEME_TITLE:=opentomcat
 
 PKG_NAME:=luci-theme-$(THEME_NAME)
-PKG_VERSION:=0.2.50
+PKG_VERSION:=0.2.60
 
 PKG_RELEASE:=1
 
